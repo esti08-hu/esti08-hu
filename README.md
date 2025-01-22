@@ -42,5 +42,5 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esti08-hu&" alt="esti08-hu" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esti08-hu" alt="esti08-hu" /></a></p>
+
 
