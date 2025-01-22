@@ -41,7 +41,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=esti08-hu&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=esti08-hu&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=esti08-hu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
