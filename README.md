@@ -43,8 +43,6 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
 </div>
 
-### ___________
-
 <div style="margin-top:20px">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-omega-orcin.vercel.app?user=esti08-hu&theme=gruvbox" alt="GitHub Streak" />
