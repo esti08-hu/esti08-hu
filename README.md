@@ -37,11 +37,13 @@
 <a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/estifanos-ameha-2969b0231" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/ameha.mekonnen.96/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 
-<div style="display: flex; flex-direction:column; gap:10px; justify-content: center; align-items: center;">
+<div style="width:full; display: flex; flex-direction:column; gap:10px; justify-content: center; align-items: center;">
 <div style="display: flex; justify-content: space-between; gap:20px; align-items: center;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=esti08-hu&show_icons=true&locale=en" alt="esti08-hu" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
 </div>
+
+###
 
 <div>
   <a href="https://git.io/streak-stats">
