@@ -45,7 +45,7 @@
 
 ###
 
-<div>
+<div style="margin-top:20px">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-omega-orcin.vercel.app?user=esti08-hu&theme=gruvbox" alt="GitHub Streak" />
   </a>
