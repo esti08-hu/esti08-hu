@@ -3,14 +3,12 @@
 <h2>🚀 Languages and Tools I Use</h2>
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks and Libraries
-
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -18,7 +16,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Tools and Platforms
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -28,7 +25,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Operating Systems and Version Control
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,19 +37,17 @@
 <a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/estifanos-ameha-2969b0231" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/ameha.mekonnen.96/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 
-<div style="display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center; margin-bottom:10px">
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=esti08-hu&show_icons=true&locale=en" alt="esti08-hu" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
-  </div>
+<div style="display: flex; flex-direction:column; gap:10px; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: space-between; gap:20px; align-items: center;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=esti08-hu&show_icons=true&locale=en" alt="esti08-hu" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
+</div>
 
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-omega-orcin.vercel.app?user=esti08-hu&theme=gruvbox" alt="GitHub Streak" />
-    </a>
-  </div>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-omega-orcin.vercel.app?user=esti08-hu&theme=gruvbox" alt="GitHub Streak" />
+  </a>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=esti08-hu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
