@@ -44,12 +44,4 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=esti08-hu&show_icons=true&locale=en" alt="esti08-hu" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esti08-hu&show_icons=true&locale=en&layout=compact" alt="esti08-hu" /></p>
 </div>
-
-<div align:"center" style="margin-top:20px">
-  <a href="https://git.io/streak-stats">
-    <img align:"center" src="https://github-readme-streak-stats-omega-orcin.vercel.app?user=esti08-hu&theme=gruvbox" alt="GitHub Streak" />
-  </a>
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=esti08-hu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
