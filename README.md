@@ -4,8 +4,6 @@
 
 I build reliable backend systems, multi-tenant APIs, and event-driven applications.
 
-Currently working at **Lersha (Green Agro Solution)**, developing enterprise backend systems for contract farming and agribusiness.
-
 My engineering interests include:
 - Multi-tenant system architecture and database isolation
 - Event-driven systems, CQRS, Event Sourcing, and Transactional Outbox
